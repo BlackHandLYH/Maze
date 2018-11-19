@@ -1,0 +1,11 @@
+E:\littlethings\Maze\Maze\Maze\bin\Debug\Maze.exe.config
+E:\littlethings\Maze\Maze\Maze\bin\Debug\Maze.exe
+E:\littlethings\Maze\Maze\Maze\bin\Debug\Maze.pdb
+E:\littlethings\Maze\Maze\Maze\obj\Debug\Maze.csprojAssemblyReference.cache
+E:\littlethings\Maze\Maze\Maze\obj\Debug\Maze.MainForm.resources
+E:\littlethings\Maze\Maze\Maze\obj\Debug\Maze.Properties.Resources.resources
+E:\littlethings\Maze\Maze\Maze\obj\Debug\Maze.csproj.GenerateResource.cache
+E:\littlethings\Maze\Maze\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+E:\littlethings\Maze\Maze\Maze\obj\Debug\Maze.exe
+E:\littlethings\Maze\Maze\Maze\obj\Debug\Maze.pdb
+E:\littlethings\Maze\Maze\Maze\obj\Debug\Maze.Help.resources
